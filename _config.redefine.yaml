@@ -1,0 +1,29 @@
+navbar:
+  links:
+    Events:
+      path: /events
+      icon: fa-solid fa-calendar-days
+    archives:
+      path: /archives
+      icon: fa-solid fa-blog
+    About:
+      path: /about
+      icon: fa-regular fa-address-card
+    Join Us: 
+      icon: fa-solid fa-link
+      submenus: 
+        Discord: https://discord.gg/j3VMgyVaDt
+        WhatsApp: https://whatsapp.com/channel/0029VaIVCiY05MUmUmBGeQ34
+        Get Involved: /joinus
+
+
+home:
+  sidebar:
+    announcement: "DEFCON Jalandhar Conference - Comming soon"
+    links:
+      Archives: # Display name
+        path: /archives # Path
+        icon: fa-regular fa-archive
+      Tags: # Display name
+        path: /tags # Path
+        icon: fa-regular fa-tags
